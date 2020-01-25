@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.java
 Summary:	ISO RELAX interface
 Summary(pl.UTF-8):	Interfejs ISO RELAX
 Name:		java-isorelax
