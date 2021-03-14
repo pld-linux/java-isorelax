@@ -10,7 +10,7 @@ Source0:	http://downloads.sourceforge.net/iso-relax/isorelax.%{version}.zip
 URL:		http://iso-relax.sourceforge.net/
 BuildRequires:	jpackage-utils
 BuildRequires:	rpm-javaprov
-BuildRequires:	rpmbuild(macros) >= 1.300
+BuildRequires:	rpmbuild(macros) >= 1.745
 Requires:	jpackage-utils
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
