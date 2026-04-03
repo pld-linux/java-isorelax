@@ -2,7 +2,7 @@ Summary:	ISO RELAX interface
 Summary(pl.UTF-8):	Interfejs ISO RELAX
 Name:		java-isorelax
 Version:	20041111
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Java
 Source0:	http://downloads.sourceforge.net/iso-relax/isorelax.%{version}.zip
